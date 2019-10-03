@@ -1,4 +1,4 @@
-# Practice With Github and Submitting Your First Assignment
+git # Practice With Github and Submitting Your First Assignment
 
 The goal of this exercise is to get more practice with Git and Github and to get your feet wet with Github Classroom.
 
@@ -32,3 +32,4 @@ When you accepted this assigment, Github Classroom made a repo for you. You want
 5. Use git commands to push that file to your repo on Github
 
 
+hellllloooo
